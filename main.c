@@ -14,5 +14,8 @@ int main() {
 
     printf("chance was here\n");
     printf("Hello, from Greg!\n");
+
+    printf("Hello, it's HelleC Repo!\n");
+
     return 0;
 }
