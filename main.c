@@ -3,5 +3,9 @@
 int main() {
     printf("Hello, World!\n");
 
+
+    printf("Hello from Greg\n");
+
+
     return 0;
 }
