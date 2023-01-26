@@ -9,7 +9,7 @@ int main() {
     printf("Hi Everyone!  It's Sophie \n");
 
     printf("Howdy folks! Ian here.\n");
-    printf("Hey! I's your old pal Brian!!\n");
+    printf("Hey! It's Brian's Branch!!\n");
 
     printf("Hello, it's Brandon!\n");
     return 0;
