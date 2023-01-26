@@ -5,7 +5,7 @@ int main() {
 
 
     printf("Hello, Simranjit!\n");
-    printf("Hi Sim and class! From Josh")
+    printf("Hi Sim and class! From Josh \n");
 
     return 0;
 }
