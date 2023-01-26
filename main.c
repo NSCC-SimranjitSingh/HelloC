@@ -8,7 +8,6 @@ int main() {
     printf("Hi Everyone!  It's Sophie \n");
 
     printf("Howdy folks! Ian here.\n");
-
-    printf("Hello, it's Brandon!\n");
+    printf("Hey! I's your old pal Brian!!\n");
     return 0;
 }
