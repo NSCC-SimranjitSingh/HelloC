@@ -1,21 +1,14 @@
 #include <stdio.h>
+#include "list.h"
+#include "cal.h"
 
 int main() {
-    printf("Hello, World!\n");
-    printf("Hello, World, it's Josh!\n");
 
-    printf("Hey, it's Lauren!\n");
-    printf("Hi Everyone!  It's Sophie \n");
+    printf("...Started Main....\n");
+    printList();
+    add(5,5);
+    multiply(5,5);
 
-    printf("Howdy folks! Ian here.\n");
-    printf("Hey! I's your old pal Brian!!\n");
-
-    printf("Hello, it's Brandon!\n");
-
-    printf("chance was here\n");
-    printf("Hello, from Greg!\n");
-
-    printf("Hello, it's HelleC Repo!\n");
-
+    printf("...Ended Main....\n");
     return 0;
 }
